@@ -1,4 +1,4 @@
 # bullet_hell
-work in progress
+**work in progress**
 
 A play on the famous Bullet Hell game
